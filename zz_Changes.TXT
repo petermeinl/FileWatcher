@@ -1,0 +1,6 @@
+091110 Meinl V0
+- (New) First draft
+
+100717 Meinl V 0.2 Beta
+- (Note) Did some hefty refactoring. Thus this version might not be stable.
+
